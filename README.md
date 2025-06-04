@@ -41,3 +41,13 @@ You may need to install the modules not currently installed to execute the sourc
 8.	customtkinter
 9.	CTkListbox
 10.	PIL
+
+VIDEOTUTORIALES:
+Cómo descargar Pokémon Manager:
+https://youtu.be/Ar1elqY8zj0?si=RdGyL9RKb-Swm7tu
+Cómo usar Pokémon Manager:
+https://youtu.be/VQZICS8ngCI?si=dgNaGp-GoEUpSBIM
+Cómo usar el modo aventura para jugar campañas:
+https://youtu.be/mjCKTMg5D90?si=MQGkNi4tE1bS9YKU
+Cómo crear tu propia campaña:
+https://youtu.be/vxfVxccLb4I?si=qsxR1A2LTSNaH4h_
